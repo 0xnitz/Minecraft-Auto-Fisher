@@ -11,4 +11,5 @@ Usage:
 -Unpause the game and let the program fish for you!                                                       
 *Important - Do not move your minecraft cursor while the program is running.
 
-https://giphy.com/gifs/Vgl7DybDfGxF1yVwAm
+![](minecraft.gif)
+![](terminal.gif)
