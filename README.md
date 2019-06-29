@@ -10,6 +10,4 @@ Usage:
 -Make a rectangle by dragging your mouse from the top left corner to the bottom right corner.                                             
 -Unpause the game and let the program fish for you!                                                       
 *Important - Do not move your minecraft cursor while the program is running.
-
-![](minecraft.gif)
-![](terminal.gif)
+<img src="https://giphy.com/gifs/QAU3hyVSSRTCNveX2o" width="40" height="40" />
