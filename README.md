@@ -11,5 +11,7 @@ Usage:
 -Unpause the game and let the program fish for you!                                                       
 *Important - Do not move your minecraft cursor while the program is running.
 
+Minecraft:                                              
 ![Minecraft:](https://github.com/prerikoth/Kirb3-s-Minecraft-Auto-Fisher./blob/master/ezgif.com-video-to-gif%20(1).gif)
+Terminal:                                        
 ![Terminal:](https://github.com/prerikoth/Kirb3-s-Minecraft-Auto-Fisher./blob/master/ezgif.com-video-to-gif.gif)
