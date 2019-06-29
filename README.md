@@ -1,4 +1,4 @@
-# Kirb3-s-Minecraft-Auto-Fisher.
+# Kirb3 Minecraft-Auto-Fisher Remake.
 This is a sort of a remake of Kirb3's Minecraft Auto Fisher.                                                 
 I take NO CREDIT for this idea, it's Kirb3's. Original - https://github.com/kirb3/minecraft-fisher                                    
 The point of this program is to make Kirb3's idea a little more elegent and accurate.                              
