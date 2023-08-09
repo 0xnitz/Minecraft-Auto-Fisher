@@ -13,5 +13,3 @@ Minecraft:
 ![Minecraft:](https://github.com/prerikoth/Kirb3-s-Minecraft-Auto-Fisher./blob/master/ezgif.com-video-to-gif%20(1).gif)                                  
 Terminal:                                        
 ![Terminal:](https://github.com/prerikoth/Kirb3-s-Minecraft-Auto-Fisher./blob/master/ezgif.com-video-to-gif.gif)
-
-*credit to kirb3 for the idea
