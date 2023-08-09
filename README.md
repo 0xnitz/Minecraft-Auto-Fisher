@@ -1,6 +1,6 @@
 # Minecraft-Auto-Fisher
 
-This is my first git use ever, so be a little kind :)
+This is my first time using git :)
 
 Usage:                                                                        
 -Start up you minecraft world and throw a fishing line into a body of water.                    
